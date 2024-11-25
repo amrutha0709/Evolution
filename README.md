@@ -53,5 +53,3 @@ Fitness is calculated based on **Hamming Distance** between genotype blocks and 
 
 ---
 
-## 🧑‍💻 Author
-[Your Name]
